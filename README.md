@@ -1,1 +1,1 @@
-Aici am scris OOP despre masini
+Aici am scris OOP despre masini.
